@@ -3,24 +3,11 @@ import psycopg2
 import urllib.parse
 
 
-# Database connection details
-DB_HOST = 'localhost'
-DB_PORT = 5432
-DB_NAME = 'postgres'
-DB_USER = 'postgres'
-DB_PASSWORD = 'omkarborker1'
+DB_URL = 'postgres://postgres:Omkarborker1@db.jjdoiyhcuilwxtdkpbml.supabase.co:6543/postgres'
 
-# Establish a connection to the PostgreSQL database
 def create_db_connection():
-    conn = psycopg2.connect(
-        host=DB_HOST,
-        port=DB_PORT,
-        dbname=DB_NAME,
-        user=DB_USER,
-        password=DB_PASSWORD
-    )
+    conn = psycopg2.connect(DB_URL)
     return conn
-
 
 main_bp = Blueprint('main', __name__)
 

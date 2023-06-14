@@ -2,22 +2,12 @@ import psycopg2
 from flask import Flask
 from flask_cors import CORS
 
-# Database connection details
-DB_HOST = 'localhost'
-DB_PORT = 5432
-DB_NAME = 'postgres'
-DB_USER = 'postgres'
-DB_PASSWORD = 'omkarborker1'
+DB_URL = 'postgres://postgres:Omkarborker1@db.jjdoiyhcuilwxtdkpbml.supabase.co:6543/postgres'
 
 def create_db_connection():
-    conn = psycopg2.connect(
-        host=DB_HOST,
-        port=DB_PORT,
-        dbname=DB_NAME,
-        user=DB_USER,
-        password=DB_PASSWORD
-    )
+    conn = psycopg2.connect(DB_URL)
     return conn
+
 
 def create_app():
     app = Flask(__name__)
