@@ -11,6 +11,7 @@ def create_db_connection():
 
 def create_app():
     app = Flask(__name__)
+    CORS(app)
     
     from main import main_bp
     from data import data_bp
