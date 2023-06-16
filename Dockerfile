@@ -8,7 +8,7 @@ WORKDIR /main
 COPY requirements.txt .
 
 # Install the required packages
-RUN pip install -r requirements.txt && python app.py
+RUN pip install -r requirements.txt 
 
 # Copy the entire application directory into the container
 COPY . .
