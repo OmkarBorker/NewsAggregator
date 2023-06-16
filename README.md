@@ -40,8 +40,8 @@ Given these two files perform the following objectives
 ## The Hierarchy of the flask app are
     app.py
     ├── __init__.py
-    ├── main.py
-    └── data.py
+        ├── main.py
+        └── data.py
 - The app runs through app.py 
 - The app is setup through __init__.py
 - main.py contains all the user functions as mentioned in part 2
