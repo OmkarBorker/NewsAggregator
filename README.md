@@ -33,5 +33,49 @@ Given these two files perform the following objectives
 
 ### The Deployed on Railway and tested using postman
 
+   deployment website in description
 
- 
+### <a href="https://github.com/OmkarBorker/NewsAggregator/tree/main/tests">The Tests conducted are stored in test directory</a>
+
+## The Hierarchy of the flask app are
+    app.py
+    ├── __init__.py
+    ├── main.py
+    └── data.py
+- The app runs through app.py 
+- The app is setup through __init__.py
+- main.py contains all the user functions as mentioned in part 2
+- data.py contains all the post operations through which data is posted onto the system 
+
+## The Database and App functionality
+- PostgresSQL as the database for the following reasons:
+    - PostgreSQL is a powerful open-source RDBMS with strong ACID compliance, making it suitable for data integrity and reliability.
+    - It supports complex queries, indexing, and advanced features like JSONB and UUID data type, which can be useful for handling diverse data.
+    - It has good integration capabilities with Python and Flask especially with psycopg2 library.
+    - As the Schema for the database is given to use it is much prefered to make a structured database using postgresSQL for data analysis and         manipulation, making it easy for isolation of specific data.
+- The Fuctionality of the app includes 
+    - > _/industries_  
+    - Get all the list of industries, stock, ticker that are present in India
+    - > _stocks-by-industry?industry=industry1&industry=industry2_
+    -  Given an industry get all the stocks along with the tickers(parameter passing         through url takes care of multiple inputs through --     <p></p>
+    -  - **GET request**
+    - > _/news_ 
+    - Get all news at ones
+    - > _/news/<id<id>>_ 
+    - Get news by news-id
+    - > _/news-by-ticker?ticker=ticker1&ticker=ticker2_ 
+    - Get all news related to a ticker (parameter passing through url takes care of multiple inputs GET request)
+    - > _/news-by-industry?industry=industry1&industry=industry2_ 
+    - Get all news related to an industry 
+    - > _/news-by-source?source=source1&source=source2_ 
+    - Get all news related to a source
+    
+    <p></p>
+    
+    -  - **POST request**
+    - > _/push-stock-industry-mapping_ 
+    - data of industries into table stock_industry_mappings
+    - > _/push-news_
+    - data of news into table news
+    - both endpoints are different to push the data from the two csv in separate tables inside the database.
+
