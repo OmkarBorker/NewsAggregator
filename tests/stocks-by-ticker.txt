@@ -1,0 +1,818 @@
+https://newsaggregator-production.up.railway.app//stocks-by-industry?industry=Logistics&industry=Batteries&industry=Chemicals
+
+{
+    "data": [
+        [
+            "Aegis Logistics Ltd.",
+            "AEGISCHEM"
+        ],
+        [
+            "Amara Raja Batteries Ltd.",
+            "AMARAJABAT"
+        ],
+        [
+            "Andhra Petrochemicals Ltd.",
+            "ANDHRAPET"
+        ],
+        [
+            "Atul Ltd.",
+            "ATUL"
+        ],
+        [
+            "Bhansali Engineering Polymers Ltd.",
+            "BEPL"
+        ],
+        [
+            "Oriental Aromatics Ltd.",
+            "OAL"
+        ],
+        [
+            "Exide Industries Ltd.",
+            "EXIDEIND"
+        ],
+        [
+            "DIC India Ltd.",
+            "DICIND"
+        ],
+        [
+            "DCW Ltd.",
+            "DCW"
+        ],
+        [
+            "Diamines & Chemicals Ltd.",
+            "500120"
+        ],
+        [
+            "Elantas Beck India Ltd.",
+            "DRBECK"
+        ],
+        [
+            "Foseco India Ltd.",
+            "FOSECOIND"
+        ],
+        [
+            "Ganesh Benzoplast Ltd.",
+            "GANESHBE"
+        ],
+        [
+            "Godrej Industries Ltd.",
+            "GODREJIND"
+        ],
+        [
+            "GHCL Ltd.",
+            "GHCL"
+        ],
+        [
+            "GFL Ltd.",
+            "GFLLIMITED"
+        ],
+        [
+            "Himadri Speciality Chemical Ltd.",
+            "HSCL"
+        ],
+        [
+            "IG Petrochemicals Ltd.",
+            "IGPL"
+        ],
+        [
+            "India Glycols Ltd.",
+            "INDIAGLYCO"
+        ],
+        [
+            "Insilco Ltd.",
+            "INSILCO"
+        ],
+        [
+            "Manali Petrochemicals Ltd.",
+            "MANALIPETC"
+        ],
+        [
+            "Lords Chloro Alkali Ltd.",
+            "MODIALKALI"
+        ],
+        [
+            "National Peroxide Ltd.",
+            "NATPEROXID"
+        ],
+        [
+            "Pidilite Industries Ltd.",
+            "PIDILITIND"
+        ],
+        [
+            "Supreme Petrochem Ltd.",
+            "SUPPETRO"
+        ],
+        [
+            "Thirumalai Chemicals Ltd.",
+            "TIRUMALCHM"
+        ],
+        [
+            "Hindustan Organic Chemicals Ltd.",
+            "HOCL"
+        ],
+        [
+            "Nocil Ltd.",
+            "NOCIL"
+        ],
+        [
+            "Tata Chemicals Ltd.",
+            "TATACHEM"
+        ],
+        [
+            "Indo-National Ltd.",
+            "NIPPOBATRY"
+        ],
+        [
+            "Indokem Ltd.",
+            "INDOKEM"
+        ],
+        [
+            "Panasonic Energy India Company Ltd.",
+            "LAKHNNATNL"
+        ],
+        [
+            "High Energy Batteries (India) Ltd.",
+            "504176"
+        ],
+        [
+            "Grauer & Weil (India) Ltd.",
+            "GRAUWEIL"
+        ],
+        [
+            "Arshiya Ltd.",
+            "ARSHIYA"
+        ],
+        [
+            "INEOS Styrolution India Ltd.",
+            "INEOSSTYRO"
+        ],
+        [
+            "Amines & Plasticizers Ltd.",
+            "506248"
+        ],
+        [
+            "Chemplast Sanmar Ltd.",
+            "CHEMPLASTS"
+        ],
+        [
+            "Clariant Chemicals (India) Ltd.",
+            "CLNINDIA"
+        ],
+        [
+            "Deepak Nitrite Ltd.",
+            "DEEPAKNTR"
+        ],
+        [
+            "Dharamsi Morarji Chemical Company Ltd.",
+            "DHARAMORAR"
+        ],
+        [
+            "GOCL Corporation Ltd.",
+            "GOCLCORP"
+        ],
+        [
+            "Jayshree Chemicals Ltd.",
+            "506520"
+        ],
+        [
+            "Kanoria Chemicals & Industries Ltd.",
+            "KANORICHEM"
+        ],
+        [
+            "Keltech Energies Ltd.",
+            "506528"
+        ],
+        [
+            "Nitta Gelatin India Ltd.",
+            "KERALACHEM"
+        ],
+        [
+            "Oriental Carbon & Chemicals Ltd.",
+            "OCCL"
+        ],
+        [
+            "Amal Ltd.",
+            "506597"
+        ],
+        [
+            "Polychem Ltd.",
+            "POLYCHEM"
+        ],
+        [
+            "Gujchem Distillers India Ltd.",
+            "506640"
+        ],
+        [
+            "Sadhana Nitro Chem Ltd.",
+            "506642"
+        ],
+        [
+            "Ultramarine & Pigments Ltd.",
+            "ULTRMARINE"
+        ],
+        [
+            "Mysore Petro Chemicals Ltd.",
+            "MYSORPETRO"
+        ],
+        [
+            "Alkyl Amines Chemicals Ltd.",
+            "ALKYLAMINE"
+        ],
+        [
+            "Tuticorin Alkali Chemicals and Fertilizers Ltd.",
+            "TUTICORALK"
+        ],
+        [
+            "Punjab Alkalies & Chemicals Ltd.",
+            "PUNALKALI"
+        ],
+        [
+            "Tanfac Industries Ltd.",
+            "TANFACIND"
+        ],
+        [
+            "Caprolactam Chemicals Ltd.",
+            "507486"
+        ],
+        [
+            "CJ Gelatine Products Ltd.",
+            "507515"
+        ],
+        [
+            "IVP Ltd.",
+            "IVP"
+        ],
+        [
+            "Polson Ltd.",
+            "507645"
+        ],
+        [
+            "TGV SRACC Ltd.",
+            "SREERAYALK"
+        ],
+        [
+            "Lime Chemicals Ltd.",
+            "507759"
+        ],
+        [
+            "Hardcastle & Waud Manufacturing Company Ltd.",
+            "509597"
+        ],
+        [
+            "Cochin Minerals & Rutile Ltd.",
+            "513353"
+        ],
+        [
+            "Sreechem Resins Ltd.",
+            "514248"
+        ],
+        [
+            "Mangalam Organics Ltd.",
+            "514418"
+        ],
+        [
+            "Jyoti Resins & Adhesives Ltd.",
+            "514448"
+        ],
+        [
+            "Vishnu Chemicals Ltd.",
+            "VISHNU"
+        ],
+        [
+            "HBL Power Systems Ltd.",
+            "HBLPOWER"
+        ],
+        [
+            "Vikas WSP Ltd.",
+            "VIKASWSP"
+        ],
+        [
+            "Sical Logistics Ltd.",
+            "SICAL"
+        ],
+        [
+            "ABC India Ltd.",
+            "520123"
+        ],
+        [
+            "Balurghat Technologies Ltd.",
+            "BALURTRANS"
+        ],
+        [
+            "Coastal Roadways Ltd.",
+            "520131"
+        ],
+        [
+            "Sanco Trans Ltd.",
+            "523116"
+        ],
+        [
+            "Medi-Caps Ltd.",
+            "MEDICAPS"
+        ],
+        [
+            "Indian Toners & Developers Ltd.",
+            "523586"
+        ],
+        [
+            "Plastiblends India Ltd.",
+            "PLASTIBLEN"
+        ],
+        [
+            "Dhunseri Ventures Ltd.",
+            "DVL"
+        ],
+        [
+            "Venlon Enterprises Ltd.",
+            "VENLONPOLY"
+        ],
+        [
+            "Haryana Leather Chemicals Ltd.",
+            "524080"
+        ],
+        [
+            "TCM Ltd.",
+            "524156"
+        ],
+        [
+            "Kesar Petroproducts Ltd.",
+            "524174"
+        ],
+        [
+            "Vinati Organics Ltd.",
+            "VINATIORGA"
+        ],
+        [
+            "Aarti Industries Ltd.",
+            "AARTIIND"
+        ],
+        [
+            "Pentokey Organy (India) Ltd.",
+            "524210"
+        ],
+        [
+            "Resonance Specialties Ltd.",
+            "524218"
+        ],
+        [
+            "Seya Industries Ltd.",
+            "SEYAIND"
+        ],
+        [
+            "Jayant Agro-Organics Ltd.",
+            "JAYAGROGN"
+        ],
+        [
+            "Shree Hari Chemicals Export Ltd.",
+            "524336"
+        ],
+        [
+            "Indo Borax & Chemicals Ltd.",
+            "524342"
+        ],
+        [
+            "Asian Petroproducts & Exports Ltd.",
+            "524434"
+        ],
+        [
+            "Tulasee Bio-Ethanol Ltd.",
+            "524514"
+        ],
+        [
+            "Vivid Global Industries Ltd.",
+            "524576"
+        ],
+        [
+            "Alufluoride Ltd.",
+            "524634"
+        ],
+        [
+            "Archit Organosys Ltd.",
+            "524640"
+        ],
+        [
+            "Indo Amines Ltd.",
+            "524648"
+        ],
+        [
+            "Titan Bio-Tech Ltd.",
+            "524717"
+        ],
+        [
+            "Span Divergent Ltd.",
+            "524727"
+        ],
+        [
+            "Fischer Chemic Ltd.",
+            "524743"
+        ],
+        [
+            "Nikhil Adhesives Ltd.",
+            "526159"
+        ],
+        [
+            "Premier Explosives Ltd.",
+            "PREMEXPLN"
+        ],
+        [
+            "Crestchem Ltd.",
+            "526269"
+        ],
+        [
+            "Patel Integrated Logistics Ltd.",
+            "PATINTLOG"
+        ],
+        [
+            "MFL India Ltd.",
+            "526622"
+        ],
+        [
+            "Narmada Gelatines Ltd.",
+            "SHAWGELTIN"
+        ],
+        [
+            "Dai-Ichi Karkaria Ltd.",
+            "DAICHIKARK"
+        ],
+        [
+            "Gujarat Alkalies And Chemicals Ltd.",
+            "GUJALKALI"
+        ],
+        [
+            "Privi Speciality Chemicals Ltd.",
+            "PRIVISCL"
+        ],
+        [
+            "Garodia Chemicals Ltd.",
+            "530161"
+        ],
+        [
+            "Chromatic India Ltd.",
+            "CHROMATIC"
+        ],
+        [
+            "Inter State Oil Carrier Ltd.",
+            "530259"
+        ],
+        [
+            "Tinna Rubber And Infrastructure Ltd.",
+            "530475"
+        ],
+        [
+            "Vikram Thermo (India) Ltd.",
+            "530477"
+        ],
+        [
+            "Refnol Resins & Chemicals Ltd.",
+            "530815"
+        ],
+        [
+            "Daikaffil Chemicals India Ltd.",
+            "530825"
+        ],
+        [
+            "Sunshield Chemicals Ltd.",
+            "530845"
+        ],
+        [
+            "Chembond Chemicals Ltd.",
+            "CHEMBOND"
+        ],
+        [
+            "Vikas EcoTech Ltd.",
+            "VIKASECO"
+        ],
+        [
+            "Balaji Amines Ltd.",
+            "BALAMINES"
+        ],
+        [
+            "India Gelatine & Chemicals Ltd.",
+            "531253"
+        ],
+        [
+            "Container Corporation Of India Ltd.",
+            "CONCOR"
+        ],
+        [
+            "Polylink Polymers (India) Ltd.",
+            "531454"
+        ],
+        [
+            "Eveready Industries India Ltd.",
+            "EVEREADY"
+        ],
+        [
+            "Vikas Proppant & Granite Ltd.",
+            "VIKASPROP"
+        ],
+        [
+            "Agarwal Industrial Corporation Ltd.",
+            "AGARIND"
+        ],
+        [
+            "Chartered Logistics Ltd.",
+            "531977"
+        ],
+        [
+            "Frontline Corporation Ltd.",
+            "532042"
+        ],
+        [
+            "GATI Ltd.",
+            "GATI"
+        ],
+        [
+            "Transport Corporation Of India Ltd.",
+            "TCI"
+        ],
+        [
+            "Navin Fluorine International Ltd.",
+            "NAVINFLUOR"
+        ],
+        [
+            "Gateway Distriparks Ltd.",
+            "GDL"
+        ],
+        [
+            "Solar Industries India Ltd.",
+            "SOLARINDS"
+        ],
+        [
+            "Paushak Ltd.",
+            "532742"
+        ],
+        [
+            "Allcargo Logistics Ltd.",
+            "ALLCARGO"
+        ],
+        [
+            "Camlin Fine Sciences Ltd.",
+            "CAMLINFINE"
+        ],
+        [
+            "Sree Rayalaseema Hi-Strength Hypo Ltd.",
+            "SRHHYPOLTD"
+        ],
+        [
+            "Alkali Metals Ltd.",
+            "ALKALI"
+        ],
+        [
+            "Sunil Healthcare Ltd.",
+            "537253"
+        ],
+        [
+            "Laxmi Organic Industries Ltd.",
+            "LXCHEM"
+        ],
+        [
+            "North Eastern Carrying Corporation Ltd.",
+            "NECCLTD"
+        ],
+        [
+            "Snowman Logistics Ltd.",
+            "SNOWMAN"
+        ],
+        [
+            "VRL Logistics Ltd.",
+            "VRLLOG"
+        ],
+        [
+            "Meghmani Finechem Ltd",
+            "MFL"
+        ],
+        [
+            "Omkar Speciality Chemicals Ltd.",
+            "OMKARCHEM"
+        ],
+        [
+            "Jocil Ltd.",
+            "JOCIL"
+        ],
+        [
+            "Fineotex Chemical Ltd.",
+            "FCL"
+        ],
+        [
+            "Mahindra Logistics Ltd.",
+            "MAHLOG"
+        ],
+        [
+            "Beardsell Ltd.",
+            "BEARDSELL"
+        ],
+        [
+            "SH Kelkar And Company Ltd.",
+            "SHK"
+        ],
+        [
+            "Jubilant Industries Ltd.",
+            "JUBLINDS"
+        ],
+        [
+            "Tatva Chintan Pharma Chem Ltd.",
+            "TATVA"
+        ],
+        [
+            "Valiant Organics Ltd.",
+            "VALIANTORG"
+        ],
+        [
+            "Future Supply Chain Solutions Ltd.",
+            "FSC"
+        ],
+        [
+            "TCI Express Ltd.",
+            "TCIEXP"
+        ],
+        [
+            "Anupam Rasayan India Ltd.",
+            "ANURAS"
+        ],
+        [
+            "Sharda Cropchem Ltd.",
+            "SHARDACROP"
+        ],
+        [
+            "Navkar Corporation Ltd.",
+            "NAVKARCORP"
+        ],
+        [
+            "Ushanti Colour Chem Ltd.",
+            "UCL"
+        ],
+        [
+            "Rossari Biotech Ltd.",
+            "ROSSARI"
+        ],
+        [
+            "Maheshwari Logistics Ltd.",
+            "MAHESHWARI"
+        ],
+        [
+            "Ritco Logistics Ltd.",
+            "542383"
+        ],
+        [
+            "Kanchi Karpooram Ltd.",
+            "538896"
+        ],
+        [
+            "Vasundhara Rasayans Ltd.",
+            "538634"
+        ],
+        [
+            "Neogen Chemicals Ltd.",
+            "NEOGEN"
+        ],
+        [
+            "Tiger Logistics (India) Ltd.",
+            "536264"
+        ],
+        [
+            "Yug Decor Ltd.",
+            "540550"
+        ],
+        [
+            "Sanginita Chemicals Ltd.",
+            "SANGINITA"
+        ],
+        [
+            "JITF Infralogistics Ltd.",
+            "JITFINFRA"
+        ],
+        [
+            "Lancer Containers Lines Ltd.",
+            "539841"
+        ],
+        [
+            "Trivikrama Industries Ltd.",
+            "538579"
+        ],
+        [
+            "Jalan Transolutions (India) Ltd.",
+            "JALAN"
+        ],
+        [
+            "Yasho Industries Ltd.",
+            "541167"
+        ],
+        [
+            "Hindcon Chemicals Ltd.",
+            "HINDCON"
+        ],
+        [
+            "Par Drugs And Chemicals Ltd.",
+            "PAR"
+        ],
+        [
+            "Prime Fresh Ltd.",
+            "540404"
+        ],
+        [
+            "AVSL Industries Ltd.",
+            "AVSL"
+        ],
+        [
+            "Globe International Carriers Ltd.",
+            "GICL"
+        ],
+        [
+            "Jet Freight Logistics Ltd.",
+            "JETFREIGHT"
+        ],
+        [
+            "Prolife Industries Ltd.",
+            "PROLIFE"
+        ],
+        [
+            "Chemcrux Enterprises Ltd.",
+            "540395"
+        ],
+        [
+            "Vadivarhe Speciality Chemicals Ltd.",
+            "VSCL"
+        ],
+        [
+            "Total Transport Systems Ltd.",
+            "TOTAL"
+        ],
+        [
+            "Shreeji Translogistics Ltd.",
+            "540738"
+        ],
+        [
+            "Goldstar Power Ltd.",
+            "GOLDSTAR"
+        ],
+        [
+            "Arvee Laboratories (India) Ltd.",
+            "ARVEE"
+        ],
+        [
+            "Fine Organic Industries Ltd.",
+            "FINEORG"
+        ],
+        [
+            "Orissa Bengal Carrier Ltd.",
+            "541206"
+        ],
+        [
+            "Tara Chand Logistic Solutions Ltd.",
+            "TARACHAND"
+        ],
+        [
+            "AVG Logistics Ltd.",
+            "AVG"
+        ],
+        [
+            "Mahickra Chemicals Ltd.",
+            "MAHICKRA"
+        ],
+        [
+            "Accuracy Shipping Ltd.",
+            "ACCURACY"
+        ],
+        [
+            "Shree Vasu Logistics Ltd.",
+            "SVLL"
+        ],
+        [
+            "Chemfab Alkalis Ltd.",
+            "CHEMFAB"
+        ],
+        [
+            "Ambani Organics Ltd.",
+            "AMBANIORG"
+        ],
+        [
+            "Deep Polymers Ltd.",
+            "541778"
+        ],
+        [
+            "DRS Dilip Roadlines Ltd.",
+            "DRSDILIP"
+        ],
+        [
+            "Chemcon Speciality Chemicals Ltd.",
+            "CHEMCON"
+        ],
+        [
+            "Gujarat Fluorochemicals Ltd.",
+            "FLUOROCHEM"
+        ],
+        [
+            "Fairchem Organics Ltd.",
+            "FAIRCHEMOR"
+        ],
+        [
+            "Clean Science And Technology Ltd.",
+            "CLEAN"
+        ],
+        [
+            "Meghmani Organics Ltd.",
+            "MOL"
+        ]
+    ]
+}

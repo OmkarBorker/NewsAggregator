@@ -1,0 +1,3 @@
+https://newsaggregator-production.up.railway.app/news-by-ticker?ticker=INDOCO
+
+{"data":[["Indoco Remedies receives EU GMP certification for its Himachal Pradesh manufacturing facility","https://www.cnbctv18.com/business/companies/indoco-remedies-eu-gmp-certification-baddi-himachal-pradesh-solan-oral-dosage-facility-16894121.htm","The inspection was conducted by the German Health Authority at the company\u00e2\u20ac\u2122s manufacturing unit from May 22-25, 2023.","Fri, 09 Jun 2023 16:17:01 GMT","cnbc","Indoco Remedies","INDOCO","Indoco Remedies Ltd.","Pharmaceuticals & Drugs","118788d8-25b6-11ec-afd7-8c859079d2ba","2d903f26-0885-11ee-ad77-acde48001122"]]}
