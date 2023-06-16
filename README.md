@@ -57,8 +57,7 @@ Given these two files perform the following objectives
     - > _/industries_  
     - Get all the list of industries, stock, ticker that are present in India
     - > _stocks-by-industry?industry=industry1&industry=industry2_
-    -  Given an industry get all the stocks along with the tickers(parameter passing         through url takes care of multiple inputs through --     <p></p>
-    -  - **GET request**
+    -  Given an industry get all the stocks along with the tickers ( parameter passing         through url takes care of multiple inputs through GET request)    <p></p>
     - > _/news_ 
     - Get all news at ones
     - > _/news/<id<id>>_ 
