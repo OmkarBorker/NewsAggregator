@@ -2,9 +2,9 @@ name: trivy-scanning
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
   schedule:
     - cron: '41 16 * * 0'
 
