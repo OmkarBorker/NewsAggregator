@@ -2,9 +2,9 @@ from flask import jsonify,request,Blueprint, current_app
 import psycopg2
 import urllib.parse
 
-DB_URL = 'postgres://postgres:Omkarborker1@db.jjdoiyhcuilwxtdkpbml.supabase.co:6543/postgres'
+DB_URL='postgres://postgres:Omkarborker1@db.jjdoiyhcuilwxtdkpbml.supabase.co:6543/postgres'
 Connection_String = 'asgaj715671572shavgcbjas@hiejwbja'
-slack= 'xoxb-123456789012-1234567890123-1234567890123456789012'
+slack='xoxb-123456789012-12345678901233-1234567890123456789012'
 
 def create_db_connection():
     conn = psycopg2.connect(DB_URL)
