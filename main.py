@@ -4,6 +4,7 @@ import urllib.parse
 
 
 DB_URL = 'postgres://postgres:Omkarborker1@db.jjdoiyhcuilwxtdkpbml.supabase.co:6543/postgres'
+Connection_String = 'asgaj715671572shavgcbjas@hiejwbja'
 
 def create_db_connection():
     conn = psycopg2.connect(DB_URL)
